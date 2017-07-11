@@ -9,6 +9,7 @@ ComRes surveyed 2,010 British adults by telephone, between 2 and 12 February 201
 ## Get the data
 
 * ComRes: [Survey of British adults on behalf of BBC Religion and Ethics (PDF)](http://www.comresglobal.com/wp-content/uploads/2017/04/BBC-Religion-and-Ethics-Survey-Data-Tables-1.pdf)
+* An [Excel spreadsheet containing the data from that PDF](https://github.com/BBC-Data-Unit/resurrection/blob/master/BBC-Religion-and-Ethics-Survey-Data-Tables%20OCR%20VERSION.xlsx), extracted using Optical Character Recognition (OCR)
 
 ## Visualisation
 
